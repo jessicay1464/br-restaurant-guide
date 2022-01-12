@@ -1,6 +1,6 @@
 
 
-## [greek](greek.md)
+## [Greek](greek.md)
 ## [Mediterranean](mediterranean.md)
 
 
