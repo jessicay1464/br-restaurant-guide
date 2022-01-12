@@ -1,4 +1,4 @@
-# Bay Ridge Restaurant Guide
+# Europe Restaurant Guide
 ## Europe --> Mediterranean
 ---
 Select a restaurant:
